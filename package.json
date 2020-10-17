@@ -1,0 +1,21 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "Latihan Rest API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/DionNugraha21/apprestapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "node",
+    "js"
+  ],
+  "author": "Dion Nugraha",
+  "license": "ISC"
+}
